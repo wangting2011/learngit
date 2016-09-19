@@ -4,5 +4,5 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 Check if commit to origin.
 add branch dev.
-Createing a new branch is quick & simple.
+Createing a new branch is quick and simple.
 
